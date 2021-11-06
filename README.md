@@ -1,7 +1,7 @@
 # Teamprofilegenerator
 Teamprofilegenerator (+VIDEO LINK and Sample HTML page)
 
-The team profile generator is "a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person." Here are few notes about which fufill all the requirements to the Team Profil Assignmnet, as well as the VIDEO LINK at the end of this document. HTML Sample page is found in the Github repository. 
+The team profile generator is "a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person." Here are few notes about which fulfills all the requirements to the Team Profile Assignment, as well as the VIDEO LINK at the end of this document. HTML sample page is found in the Github repository. 
 
 Below details both the requirements found in the homework assignment and this readme details all the completed tasks.
 
